@@ -1,0 +1,9 @@
+.Home {
+  display: flex;
+  position: relative;
+  justify-content: center;
+}
+
+img {
+  margin-top: 40px;
+}

@@ -1,0 +1,28 @@
+.navbar {
+  width: 99.7vw;
+  display: flex;
+  margin-top: 0;
+  border: 2px solid transparent;
+  border-bottom-color: black;
+  padding-bottom: 15px;
+}
+
+.logo {
+  margin: 0;
+  padding-top: 15px;
+  padding-left: 50px;
+}
+.home {
+  display: inline;
+  padding-top: 45px;
+  margin-left: 450px;
+}
+
+.signin {
+  padding-top: 45px;
+  margin-left: 460px;
+}
+
+a + a {
+  margin-left: 15px;
+}
